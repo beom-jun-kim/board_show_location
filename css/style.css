@@ -1,0 +1,5 @@
+@charset "utf-8";
+
+.ec-base-tab.typeMenu .button.active span {
+    color: red;
+}
